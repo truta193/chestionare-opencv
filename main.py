@@ -1,7 +1,5 @@
 import cv2 as cv
-import numpy as np
 import pyautogui as pag
-from pynput import keyboard
 from pynput.keyboard import Key, Listener
 from pynput.mouse import Button, Controller
 
